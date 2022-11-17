@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning **React.js, Node.js, Java and a few more.**
 
 - ⚡ Fun fact **"Computer" was a job title in the past.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
